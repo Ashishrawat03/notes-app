@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <Nav />
-     
+     <h1 className='head'>All Your Notes Gonna appear here</h1>
       <Footer />
     </>
   )
