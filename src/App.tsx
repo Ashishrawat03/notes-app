@@ -1,5 +1,5 @@
 import Nav from './Components.tsx/Nav.tsx';
-import Footer from './Components.tsx/footer.tsx';
+import Footer from './Components.tsx/Footer.tsx';
 import './App.css';
 
 function App() {
